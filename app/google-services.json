@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407101038157",
+    "project_id": "demoloin",
+    "storage_bucket": "demoloin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407101038157:android:435a0523d25e3f865f0604",
+        "android_client_info": {
+          "package_name": "poly.md19304.demoloin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhJFrbhsx_yNJCUAFdTSmjlmW7ZvmZxLI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
